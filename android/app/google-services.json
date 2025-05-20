@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280588027680",
+    "project_id": "mx-player-13fbb",
+    "storage_bucket": "mx-player-13fbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280588027680:android:6ff21ba6d6ab5e0cba7945",
+        "android_client_info": {
+          "package_name": "com.example.hd_video_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUDTT4XaFSta8oHhcveWPWzdcu9JosSN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
